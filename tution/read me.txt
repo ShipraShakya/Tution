@@ -1,0 +1,2 @@
+import database given in the same folder to mysql then use the project to use backend or database features, 
+open the project after connecting to xampp ( apache server ).
